@@ -2,7 +2,7 @@
 import json
 
 ### DEPENDENCIES TO IMPORT ON THE GH WORKFLOW
-import requests
+##import requests
 
 ### SCRIPT SAMPLE EXECUTED THROUGH GH WORKFLOW
 print(f"💡 \033[36mScript example: Getting Brazil Covid-19 datas\033[0m")
